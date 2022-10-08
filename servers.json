@@ -4,6 +4,13 @@
       "dopname": "(X2 АКЦИИ)",
       "maxonline": 800,
       "name": "RED",
-      "online": 3
+      "online": 0
+    },
+    {
+      "color": "FFFFFF",
+      "dopname": "(ЗАКРЫТЫЙ)",
+      "maxonline": 100,
+      "name": "TEST",
+      "online": 4
     }
   ]
