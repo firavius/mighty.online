@@ -2,15 +2,8 @@
     {
       "color": "FF0000",
       "dopname": "(X2 АКЦИИ)",
-      "maxonline": 1000,
+      "maxonline": 800,
       "name": "RED",
-      "online": 600
-    },
-    {
-      "color": "00FF00",
-      "dopname": "(X2 АКЦИИ)",
-      "maxonline": 1000,
-      "name": "GREEN",
-      "online": 997
+      "online": 3
     }
   ]
