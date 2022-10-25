@@ -1,16 +1,16 @@
 {
     "news": [
         {
-            "id": "Обновление!",
-            "name": "Зачем читаешь? Зайди и поиграй лучше",
-            "image": "http://user7071.royal-hosting.ru/photo_5471994236292415083_y.jfif"
+            "id": "Не тяни лямку!",
+            "name": "Мы ждём тебя!",
+            "image": "https://sun9-23.userapi.com/impg/AqloDppl1PE6fVBLWPc-9xTBeVNtnRk5pulWAQ/Dz3KY8MOQXY.jpg?size=604x314&quality=96&sign=d28baab23f9723fd59f7a4b99798c927&type=album"
         },
         {
-            "id": "Открытие проекта!",
-            "name": "2 июля мы наконец-то открылись",
-            "image": "http://user7071.royal-hosting.ru/photo_5471994236292415040_y.jfif"
+            "id": "Наш лаунчер!",
+            "name": "Сделали лаунчер для игроков!",
+            "image": "https://sun9-66.userapi.com/impf/c858524/v858524906/c468f/rz6aIoN6xVg.jpg?size=604x282&quality=96&sign=5702fb328e94928fb565e2dc43560357&type=album"
         }
     ],
-    "name": "Сервер №1",
-    "sale": "Акция х6 донат"
+    "name": "Kino RP | 1 сервер",
+    "sale": "Открытие"
 }
