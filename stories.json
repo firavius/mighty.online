@@ -1,7 +1,12 @@
 [
    {
-        "imageurl" : "https://sun9-9.userapi.com/impg/TwxIrgcuErrxyC47W0tawGpmkBnAyqbH2K_ebg/lO9IElGFsOM.jpg?size=400x400&quality=96&sign=b048289555c53810c30ac9332289739a&type=album",
+        "imageurl" : "https://blackrussia.online/img/screen_002.jpg",
         "title" : "Новая разработка",
+        "url" : "https://t.me/weikton"
+   },
+   {
+        "imageurl" : "https://blackrussia.online/img/screen_003.jpg",
+        "title" : "Автор: Weikton",
         "url" : "https://t.me/weikton"
    } 
 ]
