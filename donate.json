@@ -1,0 +1,29 @@
+[
+   {
+        "popularText":"ПОПУЛЯРНО",
+        "newValue":"NEW",
+        "title":"BMW M5 F90",
+        "title2":"пон пон",
+        "image":"https://www.thesun.co.uk/wp-content/uploads/2018/03/p90297051_highres_the-new-bmw-m5-e1521652320207.jpg",
+        "sell":"17%",
+        "price":"5500 BC"
+     },
+     {
+        "popularText":"ПОПУЛЯРНО",
+        "newValue":"NEW",
+        "title":"Roses",
+        "title2":"под эту музыку все делал разраб)",
+        "image":"https://obmenvsemfiles.net/get/4178521/IMG_20180505_074917_1-nashobmen.org.jpg",
+        "sell":"100%",
+        "price":"0 BC"
+     },
+     {
+        "popularText":"",
+        "newValue":"",
+        "title":"Скин Weikton",
+        "title2":"Пернет и вас нет",
+        "image":"поставь тут мою фотку",
+        "sell":"",
+        "price":"9999999 BC"
+     }
+]
